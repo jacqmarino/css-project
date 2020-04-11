@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script:400,700|Indie+Flower&display=swap');
+
+  body{
+    background: radial-gradient( lightblue, white);
+  }
+section{
+background-color: white;
+background-color: rgba(255,255,255,0.7); /*white with a 50% capactiy*/
+}
+
+p{
+  font-family: monospace;
+}
+
+h1{
+color: Darkred;
+font-family: 'Dancing Script', cursive;
+}
+
+h2{
+color: darkblue;
+font-family: 'Dancing Script', cursive;
+font-weight: 700;*/ Bolder dancing script */
+
+}
+
+h3 em{
+font-family: sans-serif;
+color: black;
+text-decoration: underline;
+}
+
+h4{
+  color: red;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
+ol li{
+font-size: 15px;
+}
+
+ol.c {list-style-type: upper-roman;}
+
+ul li{
+none;
+}
+
+#centerName{
+text-align: center;
+}
+
+.bolder{
+font-weight: bolder;
+font-size: 15px;
+}
+
+a{
+color:white;
+text-decoration: none;
+}
+
+a:visited{
+color:darkblue;
+}
+
+a:hover{
+background-color:brown;
+font-style: italic;
+}
