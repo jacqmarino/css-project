@@ -48,12 +48,6 @@ color: darkblue;
   font-size: 12px;
   }
 
-ol li{
-font-size: 15px;
-}
-
-ol.c {list-style-type: upper-roman;}
-
 ul li{
   font-family: monospace;
 }
@@ -62,10 +56,6 @@ ul li{
 text-align: center;
 }
 
-.bolder{
-font-weight: bolder;
-font-size: 15px;
-}
 
 a{
 color:white;
