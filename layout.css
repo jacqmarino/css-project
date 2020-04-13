@@ -43,7 +43,7 @@ font-size: 15px;
 ol.c {list-style-type: upper-roman;}
 
 ul li{
-none;
+  font-family: monospace;
 }
 
 #centerName{
