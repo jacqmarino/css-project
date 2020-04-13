@@ -44,7 +44,8 @@ text-decoration: underline;
 
 table{
  font-family: sans-serif;
-color: black;
+color: darkblue; 
+  font-size: 12px;
   }
 
 ol li{
