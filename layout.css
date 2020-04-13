@@ -24,16 +24,16 @@ font-weight: 700;*/ Bolder dancing script */
 
 }
 
-h3 em{
+h4{
+  color: darkblue;
+  font-family: 'Dancing Script', cursive;
+  font-size: 20px;
+}
+
+h5{
 font-family: sans-serif;
 color: black;
 text-decoration: underline;
-}
-
-h4{
-  color: red;
-  font-family: 'Dancing Script', cursive;
-  font-size: 20px;
 }
 
 ol li{
@@ -65,6 +65,6 @@ color:darkblue;
 }
 
 a:hover{
-background-color:brown;
+background-color:white;
 font-style: italic;
 }
